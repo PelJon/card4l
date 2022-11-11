@@ -1,7 +1,7 @@
 # STAC CARD4L Optical Extension Specification
 
 - **Title:** CARD4L Optical
-- **Identifier:** <https://stac-extensions.github.io/card4l/v0.1.0/optical/schema.json>
+- **Identifier:** <https://github.com/stac-extensions/card4l/blob/main/optical/json-schema/schema.json>
 - **Field Name Prefix:** card4l (shared with the CARD4L SAR Extension)
 - **Scope:** Item
 - **Extension [Maturity Classification](https://github.com/radiantearth/stac-spec/tree/master/extensions/README.md#extension-maturity):** Proposal
